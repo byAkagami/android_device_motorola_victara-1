@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo cyanide_victara-userdebug
+add_lunch_combo cos_victara-userdebug
