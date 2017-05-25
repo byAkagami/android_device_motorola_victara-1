@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo aicp_victara-userdebug
+add_lunch_combo tipsy_victara-userdebug
